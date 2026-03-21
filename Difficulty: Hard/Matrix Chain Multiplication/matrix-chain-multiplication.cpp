@@ -8,14 +8,13 @@ class Solution {
         
         for(int k=i; k<j; k++){
             int steps = (arr[i-1]*arr[k]*arr[j]) + f(i, k, arr, dp) + f(k+1, j, arr, dp);
-            
-            if(steps < mini) mini = steps;
+            mini = min(mini, steps);
         }
         return dp[i][j] = mini;
     }
     int matrixMultiplication(vector<int> &arr) {
-        int N=arr.size();
-        vector<vector<int>> dp(N, vector<int>(N, -1));
-        return f(1, N-1, arr, dp);
+        int n=arr.size();
+        vector<vector<int>> dp(n, vector<int> (n, -1));
+        return f(1, n-1, arr, dp);
     }
 };
