@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivendramaury/DSA/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/shivendramaury/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivendramaury/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3546-equal-sum-grid-partition-i](https://github.com/shivendramaury/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shivendramaury/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/shivendramaury/DSA/tree/master/0200-number-of-islands) |
+| [3546-equal-sum-grid-partition-i](https://github.com/shivendramaury/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shivendramaury/DSA/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/shivendramaury/DSA/tree/master/3546-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/shivendramaury/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
