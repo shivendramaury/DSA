@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivendramaury/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivendramaury/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shivendramaury/DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/shivendramaury/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivendramaury/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/shivendramaury/DSA/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/shivendramaury/DSA/tree/master/0292-nim-game) |
 ## Matrix
 |  |
