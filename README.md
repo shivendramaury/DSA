@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivendramaury/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shivendramaury/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivendramaury/DSA/tree/master/3546-equal-sum-grid-partition-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivendramaury/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivendramaury/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivendramaury/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Binary Search
 |  |
 | ------- |
