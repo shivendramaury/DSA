@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivendramaury/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shivendramaury/DSA/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/shivendramaury/DSA/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/shivendramaury/DSA/tree/master/0371-sum-of-two-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivendramaury/DSA/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/shivendramaury/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
