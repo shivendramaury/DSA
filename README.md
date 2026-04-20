@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivendramaury/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shivendramaury/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivendramaury/DSA/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/shivendramaury/DSA/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/shivendramaury/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivendramaury/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/shivendramaury/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivendramaury/DSA/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/shivendramaury/DSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shivendramaury/DSA/tree/master/0371-sum-of-two-integers) |
