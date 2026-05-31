@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivendramaury/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shivendramaury/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivendramaury/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/shivendramaury/DSA/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivendramaury/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivendramaury/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shivendramaury/DSA/tree/master/3546-equal-sum-grid-partition-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2126-destroying-asteroids](https://github.com/shivendramaury/DSA/tree/master/2126-destroying-asteroids) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivendramaury/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/shivendramaury/DSA/tree/master/2126-destroying-asteroids) |
 ## Counting
 |  |
 | ------- |
