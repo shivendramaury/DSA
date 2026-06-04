@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivendramaury/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/shivendramaury/DSA/tree/master/0312-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/shivendramaury/DSA/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivendramaury/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivendramaury/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shivendramaury/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/shivendramaury/DSA/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/shivendramaury/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivendramaury/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shivendramaury/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shivendramaury/DSA/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivendramaury/DSA/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivendramaury/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivendramaury/DSA/tree/master/0371-sum-of-two-integers) |
 ## Heap (Priority Queue)
 |  |
