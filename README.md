@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shivendramaury/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivendramaury/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivendramaury/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivendramaury/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/shivendramaury/DSA/tree/master/2833-furthest-point-from-origin) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivendramaury/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
