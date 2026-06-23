@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivendramaury/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivendramaury/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shivendramaury/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shivendramaury/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivendramaury/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shivendramaury/DSA/tree/master/0200-number-of-islands) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivendramaury/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shivendramaury/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shivendramaury/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivendramaury/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shivendramaury/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivendramaury/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shivendramaury/DSA/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/shivendramaury/DSA/tree/master/0867-transpose-matrix) |
