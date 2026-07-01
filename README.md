@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shivendramaury/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivendramaury/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivendramaury/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivendramaury/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivendramaury/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivendramaury/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shivendramaury/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shivendramaury/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivendramaury/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivendramaury/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivendramaury/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivendramaury/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivendramaury/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/shivendramaury/DSA/tree/master/2126-destroying-asteroids) |
