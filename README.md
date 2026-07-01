@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivendramaury/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shivendramaury/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shivendramaury/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shivendramaury/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shivendramaury/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivendramaury/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shivendramaury/DSA/tree/master/0066-plus-one) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivendramaury/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shivendramaury/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shivendramaury/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivendramaury/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/shivendramaury/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivendramaury/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shivendramaury/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivendramaury/DSA/tree/master/0344-reverse-string) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivendramaury/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shivendramaury/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shivendramaury/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
