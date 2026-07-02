@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivendramaury/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shivendramaury/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shivendramaury/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivendramaury/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0312-burst-balloons](https://github.com/shivendramaury/DSA/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/shivendramaury/DSA/tree/master/0509-fibonacci-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivendramaury/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shivendramaury/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivendramaury/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shivendramaury/DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/shivendramaury/DSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shivendramaury/DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shivendramaury/DSA/tree/master/0509-fibonacci-number) |
@@ -269,5 +271,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivendramaury/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivendramaury/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
