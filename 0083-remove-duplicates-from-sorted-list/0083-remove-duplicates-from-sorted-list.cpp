@@ -20,7 +20,6 @@ public:
             else
             temp = temp->next;
         }
-        // head = temp;
         return head;
     }
 };
