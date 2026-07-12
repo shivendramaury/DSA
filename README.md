@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shivendramaury/DSA/tree/master/0867-transpose-matrix) |
 | [1288-remove-covered-intervals](https://github.com/shivendramaury/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivendramaury/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/shivendramaury/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shivendramaury/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/shivendramaury/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivendramaury/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivendramaury/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivendramaury/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1331-rank-transform-of-an-array](https://github.com/shivendramaury/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivendramaury/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivendramaury/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivendramaury/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivendramaury/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/shivendramaury/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/shivendramaury/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivendramaury/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/shivendramaury/DSA/tree/master/2126-destroying-asteroids) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivendramaury/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
