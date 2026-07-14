@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/shivendramaury/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/shivendramaury/DSA/tree/master/0312-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivendramaury/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivendramaury/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivendramaury/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivendramaury/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivendramaury/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shivendramaury/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/shivendramaury/DSA/tree/master/0704-binary-search) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shivendramaury/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivendramaury/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivendramaury/DSA/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shivendramaury/DSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/shivendramaury/DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shivendramaury/DSA/tree/master/0509-fibonacci-number) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivendramaury/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/shivendramaury/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shivendramaury/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivendramaury/DSA/tree/master/0371-sum-of-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivendramaury/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
