@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivendramaury/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shivendramaury/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shivendramaury/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shivendramaury/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shivendramaury/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivendramaury/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivendramaury/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivendramaury/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shivendramaury/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivendramaury/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shivendramaury/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shivendramaury/DSA/tree/master/0229-majority-element-ii) |
 | [2833-furthest-point-from-origin](https://github.com/shivendramaury/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
 |  |
