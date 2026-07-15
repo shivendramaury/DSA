@@ -1,8 +1,6 @@
 class Solution {
 public:
-    int gcd(int a, int b) {
-        return b == 0 ? a : gcd(b, a%b);
-    }
+    
     int gcdOfOddEvenSums(int n) {
         int sumOdd=0;
         int sumEven=0;
@@ -15,6 +13,6 @@ public:
                 sumEven+=i;
             }
         }
-        return gcd(sumOdd, sumEven);
+        return __gcd(sumOdd, sumEven);
     }
 };
