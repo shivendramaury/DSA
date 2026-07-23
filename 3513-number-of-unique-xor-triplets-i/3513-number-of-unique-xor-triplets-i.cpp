@@ -8,7 +8,7 @@ public:
         int near = 1;
 
         while(near <= n){
-            near <<=1;
+            near *=2;
         }
 
         return near;
