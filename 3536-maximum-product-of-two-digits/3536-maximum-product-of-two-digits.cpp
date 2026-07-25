@@ -13,11 +13,9 @@ public:
         ans.push_back(n);
 
         int m = ans.size();
-        for(int i=0;i<m;i++){
-            for(int j=i+1;j<m; j++){
-                ans1 = max(ans1, ans[i]*ans[j]);
-            }
-        }
+        sort(ans.begin(), ans.end());
+
+        ans1 = ans[m-1]*ans[m-2];
         return ans1;
     }
 };
