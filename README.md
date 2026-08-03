@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shivendramaury/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivendramaury/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/shivendramaury/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivendramaury/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shivendramaury/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/shivendramaury/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivendramaury/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shivendramaury/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shivendramaury/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivendramaury/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivendramaury/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shivendramaury/DSA/tree/master/3620-network-recovery-pathways) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivendramaury/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivendramaury/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivendramaury/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivendramaury/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivendramaury/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivendramaury/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/shivendramaury/DSA/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shivendramaury/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivendramaury/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -473,8 +477,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shivendramaury/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shivendramaury/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
