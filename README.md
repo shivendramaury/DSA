@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivendramaury/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shivendramaury/DSA/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivendramaury/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivendramaury/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/shivendramaury/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivendramaury/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivendramaury/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shivendramaury/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/shivendramaury/DSA/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivendramaury/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivendramaury/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2785-sort-vowels-in-a-string](https://github.com/shivendramaury/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/shivendramaury/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivendramaury/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivendramaury/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shivendramaury/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Minimax
 |  |
@@ -542,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shivendramaury/DSA/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivendramaury/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
