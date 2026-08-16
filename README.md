@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivendramaury/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivendramaury/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shivendramaury/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2029-stone-game-ix](https://github.com/shivendramaury/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivendramaury/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shivendramaury/DSA/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivendramaury/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivendramaury/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivendramaury/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivendramaury/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivendramaury/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivendramaury/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivendramaury/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivendramaury/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivendramaury/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivendramaury/DSA/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivendramaury/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivendramaury/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/shivendramaury/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivendramaury/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shivendramaury/DSA/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivendramaury/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivendramaury/DSA/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/shivendramaury/DSA/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/shivendramaury/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivendramaury/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivendramaury/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -531,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivendramaury/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivendramaury/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivendramaury/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -538,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivendramaury/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivendramaury/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivendramaury/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivendramaury/DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -550,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shivendramaury/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivendramaury/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
