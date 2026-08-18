@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shivendramaury/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shivendramaury/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivendramaury/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/shivendramaury/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shivendramaury/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivendramaury/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shivendramaury/DSA/tree/master/0169-majority-element) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivendramaury/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/shivendramaury/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivendramaury/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shivendramaury/DSA/tree/master/0371-sum-of-two-integers) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivendramaury/DSA/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivendramaury/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bubble Sort
 |  |
