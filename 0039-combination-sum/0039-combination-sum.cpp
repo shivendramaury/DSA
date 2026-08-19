@@ -1,28 +1,29 @@
 class Solution {
 public:
-    void subSum(vector<int> &candidates, int index, int n, int target, vector<int> &temp, vector<vector<int>> &ans){
+    void subSum(vector<int> &candidates, int target, int index, vector<vector<int>> &ans, vector<int> &temp){
 
         if(target == 0){
             ans.push_back(temp);
             return;
         }
 
-        if(index == n || target<0){
+        if(target<0 || index == candidates.size()){
             return;
         }
 
-        subSum(candidates, index+1, n, target, temp, ans);
+        subSum(candidates, target, index+1, ans, temp);
+
         temp.push_back(candidates[index]);
-        subSum(candidates, index, n, target-candidates[index], temp, ans);
+        subSum(candidates, target-candidates[index], index, ans, temp);
 
         temp.pop_back();
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        int n=candidates.size();
-        vector<int> temp;
+        int n = candidates.size();
         vector<vector<int>> ans;
+        vector<int> temp;
 
-        subSum(candidates, 0, n, target, temp, ans);
+        subSum(candidates, target, 0, ans, temp);
         return ans;
     }
 };
