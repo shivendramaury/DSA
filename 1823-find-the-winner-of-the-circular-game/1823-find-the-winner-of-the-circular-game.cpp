@@ -1,5 +1,14 @@
 class Solution {
 public:
+    int findWinnerIdx(int n, int k){
+        if(n == 1){
+            return 0;
+        }
+
+        int idx = findWinnerIdx(n-1, k);
+        idx = (idx+k) % n;
+        return idx;
+    }
     int findTheWinner(int n, int k) {
         // vector<int> arr;
         // for(int i=1; i<=n; i++){
@@ -17,19 +26,25 @@ public:
         // }
         // return arr[0];
 
-        queue<int> que;
-        for(int i=1; i<=n; i++){
-            que.push(i);
-        }
+        // queue<int> que;
+        // for(int i=1; i<=n; i++){
+        //     que.push(i);
+        // }
 
-        while(que.size() > 1){
-            for(int count = 1; count <= k-1; count++){
-                que.push(que.front());
-                que.pop();
-            }
+        // while(que.size() > 1){
+        //     for(int count = 1; count <= k-1; count++){
+        //         que.push(que.front());
+        //         que.pop();
+        //     }
 
-            que.pop();
-        }
-        return que.front();
+        //     que.pop();
+        // }
+        // return que.front();
+
+        // RECURSION
+        
+        int result_idx = findWinnerIdx(n, k);
+
+        return result_idx + 1;
     }
 };
