@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivendramaury/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shivendramaury/DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/shivendramaury/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivendramaury/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivendramaury/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shivendramaury/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/shivendramaury/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivendramaury/DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivendramaury/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
