@@ -23,11 +23,10 @@ public:
     }
     ListNode* removeNodes(ListNode* head) {
         head = reverse(head);
-
         ListNode* temp = head;
         int maxi = temp->val;
 
-        while(temp!= NULL && temp->next != NULL){
+        while(temp != NULL && temp->next != NULL){
             if(temp->next->val < maxi){
                 temp->next = temp->next->next;
             }
